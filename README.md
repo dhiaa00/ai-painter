@@ -2,6 +2,10 @@
 
 AI Virtual Painter is an interactive application that allows users to draw on their screen using hand gestures captured by their webcam. This project utilizes computer vision techniques to track hand movements and convert them into digital drawings in real-time.
 
+## Demo
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1pum16eHd8V2Yd90M8dDKDBekCG7ITXrU/view?usp=sharing)
+
 ## Features
 
 - Real-time hand tracking using webcam
