@@ -1,2 +1,12 @@
-# Ignore Python virtual environment directories
-venv/
+/venv
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
